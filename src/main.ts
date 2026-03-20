@@ -1,6 +1,6 @@
 'use strict';
 
-import TransactionService from './services/transaction.service';
+import { TransactionService } from './services/transaction.service';
 import './ui/login.ui';
 import { initTransactionsUI } from './ui/transactions.ui';
 
